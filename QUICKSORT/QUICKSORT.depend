@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1614721374 source:c:\users\usuario\documents\quicksort\main.cpp
+	<iostream>
+	"quicksort.h"
+	"ingresar.h"
+	<fstream>
+
+1614719122 c:\users\usuario\documents\quicksort\quicksort.h
+
+1614721337 c:\users\usuario\documents\quicksort\ingresar.h
+	<iostream>
+	<fstream>
+
